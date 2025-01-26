@@ -10,8 +10,10 @@ import pickle
 
 
 #loading the saved model
-vectorizer=pickle.load(open('C:/Users/Dell/Desktop/P1/Vectorizer.sav','rb'))
+#vectorizer=pickle.load(open('C:/Users/Dell/Desktop/P1/Vectorizer.sav','rb'))
 loaded_model = pickle.load(open('C:/Users/Dell/Desktop/P1/trained_model.sav','rb'))
+vectorizer = pickle.load(open('Vectorizer.sav', 'rb'))
+
 
 st.title("Real or Fake news Analysis")
 html_temp = """

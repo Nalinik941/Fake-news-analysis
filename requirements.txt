@@ -6,7 +6,6 @@ aiosignal
 alabaster
 altair 
 anaconda-catalogs
-anaconda-client 
 anaconda-cloud-auth 
 anaconda-navigator 
 anaconda-project 

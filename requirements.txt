@@ -6,8 +6,7 @@ aiosignal
 alabaster
 altair 
 anaconda-catalogs
-anaconda-cloud-auth 
-anaconda-project 
+anaconda-cloud-auth  
 annotated-types 
 anyio 
 appdirs
